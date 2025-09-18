@@ -6,7 +6,7 @@
   <title>🔑 تولیدکننده پسورد قوی</title>
   <style>
     body {
-      fon-family: sans-serif;
+      font-family: sans-serif;
       background: linear-gradient(135deg, #84fab0, #8fd3f4);
       display: flex;
       flex-direction: column;
